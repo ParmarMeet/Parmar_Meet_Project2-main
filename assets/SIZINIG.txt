@@ -1,0 +1,20 @@
+This text file contains information on the fonts, colours, box sizes, navigation menu text, and sizes for desktop, mobile, and phone. It is used in the website design process.
+
+Inter Regular 400 Bold 700 font
+https://fonts.google.com/specimen/Inter?query=inter
+
+Colour: Undetermined: Keep to high contrast black and white instead.
+
+For sale.html and index.html, respectively.
+
+Device: Width: Height: 
+Desktop 921 193 
+Mobile 302 193 
+Tablet 536 193
+
+For sale.html and index.html, see the footer
+
+Device: Width: Height: Desktop 921 136 Mobile 302 54 Tablet 536 81
+
+
+(Other items, including sale item, article 1, item 1, etc., are still being worked on and may experience variations in the height and with.) These elements' sizes can vary according on the material that you enter.
